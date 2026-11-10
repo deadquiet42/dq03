@@ -1,0 +1,1 @@
+{"name":"dq03","private":true,"type":"module","scripts":{"build":"node build.mjs"},"dependencies":{"roadroller":"^2.1.0","terser":"^5.51.2"}}
